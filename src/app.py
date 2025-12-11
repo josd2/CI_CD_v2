@@ -1,4 +1,4 @@
 import os
 class Calculadora:
-    def sum(serf,a:int,b:int) -> int:
+    def sum(self,a:int,b:int) -> int:
         return a + b
